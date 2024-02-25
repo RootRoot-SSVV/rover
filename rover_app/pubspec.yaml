@@ -1,0 +1,39 @@
+name: rover_app
+description: Controller app for ROVER
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bluetooth_serial: ^0.4.0
+  flutter_localizations:
+    sdk: flutter
+  go_router: ^13.2.0
+  intl: any
+  package_info_plus: ^5.0.1
+  permission_handler: ^11.3.0
+  provider: ^6.0.5
+  url_launcher: ^6.1.14
+  flutter_launcher_icons: ^0.13.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+  generate: true
+  fonts:
+   - family: my_icons
+     fonts:
+      - asset: lib/assets/icons/my_icons.ttf
+  
+flutter_icons:
+  android: true
+  image_path: "lib/assets/icon/rover.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21

@@ -1,0 +1,20 @@
+{
+    "language": "Jezik",
+    "language_code": "Hrvatski",
+    "discover_devices": "Otkrij uređaje",
+    "no_name": "Bez naziva",
+    "project_github_page": "Službena Github stranica",
+    "authors": "Autori",
+    "docs": "Dokumentacija",
+    "privacy_policy": "Pravila o privatnosti",
+    "text_for_privacy": "Pravila o privatnosti\nDatum stupanja na snagu: [Umetni datum]\nPredani smo zaštiti privatnosti naših korisnika. Ova Pravila o privatnosti opisuju informacije koje prikupljamo, kako ih koristimo i mjere koje poduzimamo kako bismo zaštitili vašu privatnost kada koristite našu mobilnu aplikaciju [Umetnite naziv aplikacije].\n1. Informacije koje ne prikupljamo:\nŽelimo razjasniti da naša aplikacija ne prikuplja nikakve osobne podatke od korisnika. Ne prikupljamo, pohranjujemo niti obrađujemo bilo koju od sljedećih informacija:\na. Identifikacijski osobni podaci (PII): Ne prikupljamo vaše ime, adresu e-pošte, telefonski broj niti bilo koje druge osobne podatke.\nb. Podaci o lokaciji: Ne pratimo vašu lokaciju putem aplikacije.\nc. Informacije o uređaju: Ne pristupamo niti pohranjujemo informacije o vašem uređaju, poput vrste uređaja, modela ili operativnog sustava.\nd. Informacije o korištenju: Ne pratimo vašu upotrebu aplikacije niti prikupljamo podatke koji se odnose na vaše interakcije unutar aplikacije.\ne. Podaci o plaćanju: Naša aplikacija ne obrađuje plaćanja niti prikuplja podatke u vezi s plaćanjem.\n2. Sadržaj koji stvaraju korisnici:\nDok koristite našu aplikaciju, možda ćete imati opciju stvaranja ili slanja sadržaja, poput teksta, slika ili drugih materijala. Imajte na umu da se svaki korisnički generirani sadržaj koji odlučite podijeliti unutar aplikacije ne smatra osobnim podacima i ne koristimo ga ni u koju svrhu osim da vam pružimo funkcionalnost aplikacije.\n3. Kolačići i tehnologije praćenja:\nNaša aplikacija ne koristi kolačiće, web pratilice niti bilo koju drugu tehnologiju praćenja za prikupljanje informacija o vašim navikama pregledavanja ili mrežnim aktivnostima.\n4. Usluge trećih strana:\nNaša se aplikacija ne integrira s uslugama trećih strana, kao što su platforme društvenih medija ili pružatelji usluga analitike, koji bi mogli prikupljati vaše osobne podatke.\n",
+    "exit_button": "Izlaz",
+    "rescan_button": "Skeniraj",
+    "bluetooth_error_label": "Bluetooth ili lokacija neaktivirana",
+    "bluetooth_error": "Uključite Bluetooth, lokaciju i ponovno otvorite aplikaciju",
+    "ok": "U redu",
+    "exit_label": "Izlaz",
+    "exit_text": "Želite li izaći iz aplikacije?",
+    "exit_yes": "Izađi",
+    "exit_no": "Poništi"
+}

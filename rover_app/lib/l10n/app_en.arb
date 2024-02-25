@@ -1,0 +1,20 @@
+{
+    "language": "Language",
+    "language_code": "English",
+    "discover_devices": "Discover devices",
+    "no_name": "No name",
+    "project_github_page": "Official github page",
+    "authors": "Authors",
+    "docs": "Documentation",
+    "privacy_policy": "Privacy policy",
+    "text_for_privacy": "Privacy Policy\nEffective Date: [Insert Date]\nWe are committed to protect the privacy of our users. This Privacy Policy outlines the information we collect, how we use it, and the measures we take to safeguard your privacy when you use our mobile application [Insert App Name].\n1. Information We Do Not Collect:\nWe want to make it clear that our App does not collect any personal data from users. We do not gather, store, or process any of the following information:\na. Personal Identifiable Information (PII): We do not collect your name, email address, phone number, or any other personally identifiable information.\nb. Location Data: We do not track your location through the App.\nc. Device Information: We do not access or store information about your device, such as device type, model, or operating system.\nd. Usage Information: We do not track your app usage or collect any data related to your interactions within the App.\ne. Payment Information: Our App does not process payments or collect any payment-related information.\n2. User-Generated Content:\nWhile using our App, you may have the option to create or submit content, such as text, images, or other materials. Please be aware that any user-generated content you choose to share within the App is not considered personal data, and we do not use it for any purpose beyond providing you with the App's functionality.\n3. Cookies and Tracking Technologies:\nOur App does not use cookies, web beacons, or any other tracking technologies to collect information about your browsing habits or online activities.\n4. Third-Party Services:\nOur App does not integrate with third-party services, such as social media platforms or analytics providers, that could collect personal data from you.\n",
+    "exit_button": "Exit",
+    "rescan_button": "Rescan",
+    "bluetooth_error_label": "No bluetooth or location",
+    "bluetooth_error": "Turn on bluetooth and location and restart app",
+    "ok": "ok",
+    "exit_label": "Exit",
+    "exit_text": "Do you want to exit app?",
+    "exit_yes": "Exit",
+    "exit_no": "Cancel"
+}
